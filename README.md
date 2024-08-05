@@ -52,9 +52,4 @@ This project combines two powerful AI applications: GAN-based image generation a
 - Addition of more AI models for enhanced capabilities
 - Improved user interface with advanced styling and error handling
 
-## Screenshots
-![Image Generation 1](screenshots/screenshot1.png)
-![Image Generation 2](screenshots/screenshot2.png)
-![Image Generation 3](screenshots/screenshot3.png)
-
 We welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
